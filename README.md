@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/risha2004/leetcode/tree/master/0009-palindrome-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/risha2004/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
