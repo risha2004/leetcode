@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/risha2004/leetcode/tree/master/0009-palindrome-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/risha2004/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [2050-count-good-numbers](https://github.com/risha2004/leetcode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/risha2004/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [2050-count-good-numbers](https://github.com/risha2004/leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
