@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/risha2004/leetcode/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/risha2004/leetcode/tree/master/0039-combination-sum) |
 | [0731-my-calendar-ii](https://github.com/risha2004/leetcode/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/risha2004/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Two Pointers
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1694-make-sum-divisible-by-p](https://github.com/risha2004/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/risha2004/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
