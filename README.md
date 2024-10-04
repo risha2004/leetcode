@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/risha2004/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/risha2004/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/risha2004/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
@@ -123,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/risha2004/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1694-make-sum-divisible-by-p](https://github.com/risha2004/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/risha2004/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/risha2004/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/risha2004/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/risha2004/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/risha2004/leetcode/tree/master/0078-subsets) |
