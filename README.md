@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/risha2004/leetcode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/risha2004/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/risha2004/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/risha2004/leetcode/tree/master/0078-subsets) |
 | [0731-my-calendar-ii](https://github.com/risha2004/leetcode/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/risha2004/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/risha2004/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/risha2004/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/risha2004/leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
