@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/risha2004/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/risha2004/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/risha2004/leetcode/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/risha2004/leetcode/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/risha2004/leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/risha2004/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/risha2004/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/risha2004/leetcode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/risha2004/leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/risha2004/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/risha2004/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/risha2004/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/risha2004/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/risha2004/leetcode/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/risha2004/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/risha2004/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -231,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/risha2004/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/risha2004/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/risha2004/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/risha2004/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/risha2004/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
