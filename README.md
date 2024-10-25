@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/risha2004/leetcode/tree/master/0731-my-calendar-ii) |
 | [1002-maximum-width-ramp](https://github.com/risha2004/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/risha2004/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1694-make-sum-divisible-by-p](https://github.com/risha2004/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/risha2004/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/risha2004/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/risha2004/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0567-permutation-in-string](https://github.com/risha2004/leetcode/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/risha2004/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/risha2004/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/risha2004/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/risha2004/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/risha2004/leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/risha2004/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0988-flip-equivalent-binary-trees](https://github.com/risha2004/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/risha2004/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/risha2004/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
