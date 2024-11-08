@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/risha2004/leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/risha2004/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/risha2004/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/risha2004/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
