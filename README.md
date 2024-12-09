@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/risha2004/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/risha2004/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/risha2004/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2846-robot-collisions](https://github.com/risha2004/leetcode/tree/master/2846-robot-collisions) |
 | [3291-find-if-array-can-be-sorted](https://github.com/risha2004/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/risha2004/leetcode/tree/master/3427-special-array-ii) |
 ## Two Pointers
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/risha2004/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/risha2004/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/risha2004/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2846-robot-collisions](https://github.com/risha2004/leetcode/tree/master/2846-robot-collisions) |
 | [3291-find-if-array-can-be-sorted](https://github.com/risha2004/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/risha2004/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/risha2004/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2846-robot-collisions](https://github.com/risha2004/leetcode/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/risha2004/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/risha2004/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/risha2004/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2846-robot-collisions](https://github.com/risha2004/leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
