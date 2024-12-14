@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/risha2004/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/risha2004/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/risha2004/leetcode/tree/master/2846-robot-collisions) |
+| [2868-continuous-subarrays](https://github.com/risha2004/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/risha2004/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/risha2004/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/risha2004/leetcode/tree/master/3427-special-array-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/risha2004/leetcode/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/risha2004/leetcode/tree/master/2868-continuous-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/risha2004/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/risha2004/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/risha2004/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/risha2004/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/risha2004/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Matrix
 |  |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/risha2004/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/risha2004/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/risha2004/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/risha2004/leetcode/tree/master/2868-continuous-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -359,8 +363,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/risha2004/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/risha2004/leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/risha2004/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/risha2004/leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
