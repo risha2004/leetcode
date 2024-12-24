@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/risha2004/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/risha2004/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/risha2004/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/risha2004/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/risha2004/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/risha2004/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/risha2004/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/risha2004/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/risha2004/leetcode/tree/master/0787-sliding-puzzle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/risha2004/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/risha2004/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Hash Table
 |  |
 | ------- |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/risha2004/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Graph
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/risha2004/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 <!---LeetCode Topics End-->
