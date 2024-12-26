@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/risha2004/leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/risha2004/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/risha2004/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0494-target-sum](https://github.com/risha2004/leetcode/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/risha2004/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0731-my-calendar-ii](https://github.com/risha2004/leetcode/tree/master/0731-my-calendar-ii) |
 | [0787-sliding-puzzle](https://github.com/risha2004/leetcode/tree/master/0787-sliding-puzzle) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/risha2004/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/risha2004/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/risha2004/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0494-target-sum](https://github.com/risha2004/leetcode/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/risha2004/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/risha2004/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/risha2004/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/risha2004/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/risha2004/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/risha2004/leetcode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/risha2004/leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
