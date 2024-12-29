@@ -5,16 +5,14 @@ public:
     int freq[26][1000] = {0};
 
     int f(int i, int j, const vector<string>& words, const string& target) {
-        if (j==0) return 1; // Base case
-        if (i<0 || i<j) return 0; // Not enough characters to form target
+        if (j==0) return 1; 
+        if (i<0 || i<j) return 0;
         if (dp[i][j] != -1) return dp[i][j];
 
         long long cnt = 0;
 
-        // Skip the current
         cnt+=f(i-1, j, words, target);
 
-        // take the current if characters match
         long long fc=freq[target[j-1]-'a'][i-1];
         if (fc > 0) 
             cnt+= f(i-1, j-1, words, target)*fc;
@@ -33,10 +31,8 @@ public:
             
         }
 
-        // Initialize DP table
         memset(dp, -1, sizeof(dp));
 
-        // Call the recursive function
         return f(n, m, words, target);
     }
 };
