@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/risha2004/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/risha2004/leetcode/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/risha2004/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/risha2004/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/risha2004/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/risha2004/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/risha2004/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/risha2004/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/risha2004/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/risha2004/leetcode/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/risha2004/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/risha2004/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/risha2004/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/risha2004/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/risha2004/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/risha2004/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/risha2004/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/risha2004/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/risha2004/leetcode/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/risha2004/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/risha2004/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/risha2004/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
