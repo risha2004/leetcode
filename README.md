@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/risha2004/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/risha2004/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/risha2004/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/risha2004/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/risha2004/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/risha2004/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/risha2004/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/risha2004/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/risha2004/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
