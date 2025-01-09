@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/risha2004/leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/risha2004/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/risha2004/leetcode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/risha2004/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/risha2004/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/risha2004/leetcode/tree/master/2050-count-good-numbers) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/risha2004/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/risha2004/leetcode/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/risha2004/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Indexed Tree
 |  |
