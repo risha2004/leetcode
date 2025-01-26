@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/risha2004/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/risha2004/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/risha2004/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/risha2004/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/risha2004/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/risha2004/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/risha2004/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Rolling Hash
 |  |
@@ -499,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/risha2004/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/risha2004/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
