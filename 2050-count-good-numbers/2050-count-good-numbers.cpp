@@ -1,23 +1,13 @@
 class Solution {
 public:
-      const int mod= 1e9+7;
-    long long solve(long long x, long long n){
-        if(n==0) return 1;
-
-        if(n%2==0){
-            return solve((x*x)%mod, n/2);
-        }
-        else{
-            return (x*solve(x, n-1))%mod;
-        }
-      }
+    int M = 1e9 + 7;
+    long long power(long long b , long long e, long long ans){
+        if (e ==0) return ans;
+        if( e & 1) return power(b , e -1, ( ans * b) % M);
+        else return power((b * b) % M , e/2, ans);
+    }
     int countGoodNumbers(long long n) {
-        long long even=n/2+n%2;
-        long long odd=n/2;
-        long long first=solve(5,even);
-        long long second=solve(4,odd);
-
-        long long ans= ((first)*(second))%mod;
-        return ans;
+        long long temp = power(20, n/2, 1);
+        return ( n& 1 )? (temp * 5) % M : temp;
     }
 };
