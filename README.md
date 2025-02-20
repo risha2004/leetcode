@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/risha2004/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/risha2004/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/risha2004/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/risha2004/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/risha2004/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/risha2004/leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/risha2004/leetcode/tree/master/0216-combination-sum-iii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/risha2004/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/risha2004/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/risha2004/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/risha2004/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/risha2004/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/risha2004/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/risha2004/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
