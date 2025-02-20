@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/risha2004/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/risha2004/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/risha2004/leetcode/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/risha2004/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/risha2004/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/risha2004/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0731-my-calendar-ii](https://github.com/risha2004/leetcode/tree/master/0731-my-calendar-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/risha2004/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0731-my-calendar-ii](https://github.com/risha2004/leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/risha2004/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/risha2004/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
