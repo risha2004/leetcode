@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/risha2004/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/risha2004/leetcode/tree/master/0090-subsets-ii) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/risha2004/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1940-maximum-xor-for-each-query](https://github.com/risha2004/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/risha2004/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/risha2004/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
