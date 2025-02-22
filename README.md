@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/risha2004/leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/risha2004/leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/risha2004/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/risha2004/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/risha2004/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/risha2004/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/risha2004/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/risha2004/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/risha2004/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/risha2004/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/risha2004/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/risha2004/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/risha2004/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/risha2004/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/risha2004/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/risha2004/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/risha2004/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/risha2004/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
