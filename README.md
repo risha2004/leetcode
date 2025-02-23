@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/risha2004/leetcode/tree/master/0731-my-calendar-ii) |
 | [0787-sliding-puzzle](https://github.com/risha2004/leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/risha2004/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/risha2004/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/risha2004/leetcode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/risha2004/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/risha2004/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/risha2004/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/risha2004/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/risha2004/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/risha2004/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/risha2004/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/risha2004/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/risha2004/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/risha2004/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/risha2004/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/risha2004/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/risha2004/leetcode/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/risha2004/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/risha2004/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/risha2004/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/risha2004/leetcode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/risha2004/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/risha2004/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/risha2004/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/risha2004/leetcode/tree/master/0169-majority-element) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/risha2004/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Counting
 |  |
 | ------- |
