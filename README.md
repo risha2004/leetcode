@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/risha2004/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/risha2004/leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/risha2004/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/risha2004/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/risha2004/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/risha2004/leetcode/tree/master/0042-trapping-rain-water) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/risha2004/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/risha2004/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/risha2004/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/risha2004/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/risha2004/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/risha2004/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/risha2004/leetcode/tree/master/0088-merge-sorted-array) |
